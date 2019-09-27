@@ -1,4 +1,4 @@
-class COurse
+class Course
   
 end
 
